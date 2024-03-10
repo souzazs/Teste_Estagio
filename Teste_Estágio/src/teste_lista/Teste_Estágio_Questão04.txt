@@ -1,0 +1,10 @@
+Estágio Ribeirão Preto - 2024
+
+Respostas:
+
+
+04) Ligaria um interruptor e esperaria até aquecer a lâmpada associada a este interruptor, após isso desligaria esse 
+interruptor e ligaria o segundo. Após isso iria até uma sala e caso a lâmpada esteja acesa, eu saberia que ela está 
+associada ao último interruptor ligado e caso não estivesse acesa, eu tocaria nela e veria se ela estaria quente,
+pois caso estivesse, ela estará associada ao primeiro interruptor ligado e então, eu repetiria isso em outra sala,
+totalizando assim as 2 idas.
